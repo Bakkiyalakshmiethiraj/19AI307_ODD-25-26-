@@ -29,7 +29,7 @@ To implement compile-time polymorphism (method overloading) in Java by defining 
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: Bakkkiyalakshmi E
+Developed by: Bakkiyalakshmi E
 RegisterNumber:  212223220012
 */
 ```
